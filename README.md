@@ -13,6 +13,9 @@ The Breast Cancer Diagnosis app is a machine learning-powered tool designed to a
 
 The app was developed using the [Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) Dataset, a public dataset commonly used in machine learning exercises. However, it's important to note that this dataset may not be reliable for professional use, as the project was developed solely for educational purposes in the field of machine learning.
 
+## Deployment
+The app is deployed on [Streamlit](https://streamlit.io/), a Python-based web app framework. A live version of the application can be found on [Streamlit Community Cloud](https://breast-cancer-analyzer-3gc4kywq43sj2swor3myvn.streamlit.app/).
+
 ## Installation
 
 1. Clone the repository:
