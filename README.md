@@ -35,7 +35,7 @@ pip install -r requirements.txt
 To run the app, execute the following command:
 
 ```bash
-streamlit run app.py
+streamlit run app/main.py
 ```
 
 This will launch the app in your default web browser.
